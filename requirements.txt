@@ -1,0 +1,8 @@
+Flask==2.1.1
+tensorflow==2.8.0
+keras==2.8.0
+numpy==1.21.6
+Pillow==9.0.0   #for image processing
+opencv-python==4.5.3  # for image handling
+matplotlib==3.5.1  # for plotting,like confusion matrices
+scikit-learn==1.0.2  # for evaluation metrics like confusion matrix and classification report
